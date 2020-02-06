@@ -10,3 +10,4 @@ Most government business is conducted on the web,with just a population unable t
 Kenya’s constitution is strong on disability rights, outlawing discrimination on the grounds of disability in article 27(4); and providing that a person with disability shall be entitled to treatment with respect and dignity, access educational institutions and facilities, have reasonable access to all places, public transport and information, and access materials and devices including for communications.
 Despite all these most website struggle with accessibility issues and are not placing accessibility issues as a priority.
 While Kenya’s government is making significant steps to move its services online, the platforms are not favorable to those who are visually imparied.
+So what can we as software developers do to change things,to be at the forefront of making sure web accessibilty is adopted and implemented as it should be.
