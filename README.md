@@ -38,3 +38,4 @@ The Government will where appropriate take measures to:
 
 (k) Ensure that licensed providers of telecommunications services make available services and supporting technologies for persons with disabilities including emergency services, accessible public phones and relay services to enable persons with speech, hearing and seeing disabilities.
 I am more concerned to the part where software development is involved to ensure that standards are put in place to ensure web accessibility.
+Kenya initiated the computers for primary schools programme over five years ago by providing laptops to primary schools,but did they consider web accessibilty to people with disability?what is the government doing to achieve this to avoid discrimination...
