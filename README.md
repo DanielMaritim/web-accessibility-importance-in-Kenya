@@ -9,3 +9,4 @@ As developers we need to help bridge this gap with empathy and compassion knowin
 Most government business is conducted on the web,with just a population unable to accessible these sites for one reason or the other,shows the huge gap that nees to be tackled.
 Kenya’s constitution is strong on disability rights, outlawing discrimination on the grounds of disability in article 27(4); and providing that a person with disability shall be entitled to treatment with respect and dignity, access educational institutions and facilities, have reasonable access to all places, public transport and information, and access materials and devices including for communications.
 Despite all these most website struggle with accessibility issues and are not placing accessibility issues as a priority.
+While Kenya’s government is making significant steps to move its services online, the platforms are not favorable to those who are visually imparied.
