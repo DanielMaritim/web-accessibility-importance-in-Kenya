@@ -41,3 +41,8 @@ I am more concerned to the part where software development is involved to ensure
 Kenya initiated the computers for primary schools programme over five years ago by providing laptops to primary schools,but did they consider web accessibilty to people with disability?what is the government doing to achieve this to avoid discrimination...
 Common belief is that accessibility is an wxpensive feature to add on a webpage but ever thought of the many customers who are locked out of your product just by this assumption?
 As developers we need to change our mindset and think beyond our beliefs and wear the shoes of others who may want to enjoy our products but cant because we did not value them enough
+We need to ask ourselfves these questions...!
+
+    Is my webpage usable by people using screen readers?
+    Does my content updates nicely ,if so, do visually impaired people see it?
+    Are my interface buttons accessible using the keyboard and on touch interfaces?
