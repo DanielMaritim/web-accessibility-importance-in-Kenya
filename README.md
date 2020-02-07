@@ -39,3 +39,5 @@ The Government will where appropriate take measures to:
 (k) Ensure that licensed providers of telecommunications services make available services and supporting technologies for persons with disabilities including emergency services, accessible public phones and relay services to enable persons with speech, hearing and seeing disabilities.
 I am more concerned to the part where software development is involved to ensure that standards are put in place to ensure web accessibility.
 Kenya initiated the computers for primary schools programme over five years ago by providing laptops to primary schools,but did they consider web accessibilty to people with disability?what is the government doing to achieve this to avoid discrimination...
+Common belief is that accessibility is an wxpensive feature to add on a webpage but ever thought of the many customers who are locked out of your product just by this assumption?
+As developers we need to change our mindset and think beyond our beliefs and wear the shoes of others who may want to enjoy our products but cant because we did not value them enough
